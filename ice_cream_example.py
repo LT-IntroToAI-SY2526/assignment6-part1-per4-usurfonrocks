@@ -223,7 +223,7 @@ if __name__ == "__main__":
     visualize_results(X_train, y_train, X_test, y_test, predictions, model)
     
     # Step 7: Make a new prediction
-    make_prediction(model, 85)
+    make_prediction(model, 90)
     
     print("\n" + "=" * 60)
     print("✓ Example complete! Check out the saved plots.")
